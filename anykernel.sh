@@ -10,11 +10,11 @@ do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=1
-device.name1=a22x
-device.name2=A226B
-device.name3=A226BR
-device.name4=a226b
-device.name5=a226br
+device.name1=a32x
+device.name2=A326B
+device.name3=A326BR
+device.name4=a326b
+device.name5=a326br
 supported.versions=11.0-16.0
 '; } # end properties
 
